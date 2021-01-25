@@ -2,7 +2,7 @@
 
 ## :spider_web: I am a Web Developer and Problem Solver.
 
-<img src="Character.gif" alt="Developer" />
+<img src="Character.gif" alt="Developer" style="width:300px">
 
 - 🌱 I'm currently looking to learn Selenium and other interesting stuff.
 - 💬 Ask me about Web Development.
