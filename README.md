@@ -7,7 +7,7 @@
 - 🌱 I'm currently looking to learn Selenium and other interesting stuff.
 - 💬 Ask me about Web Development.
 - In free time you'll find me 🎮 playing Mobile Games and 🎬 watching Movies/Series.
-- 🌏 My Portfolio: [Click me](https://github.com/Prashant1099/prashant1099.github.io)
+- 🌏 My Portfolio: [Prashant1099.github.io](https://Prashant1099.github.io)
 
 <br>
 
